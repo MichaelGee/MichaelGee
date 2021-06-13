@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I write code for frontend applications. I am quite familar with JavaScript and Typescript. Frameworks i use most of the time is ReactJs, NextJs and VueJs.
+
 <!--
 **MichaelGee/MichaelGee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
