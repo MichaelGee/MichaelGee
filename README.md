@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I write code for frontend applications. I strive to create the best user interface and best user experience. I am quite familiar with JavaScript and Typescript. Frameworks I use most of the time are ReactJs, NextJs, GraphQL, and VueJs.
+I write code for frontend applications. I strive to create the best user interface and the best user experience. I am quite familiar with JavaScript and Typescript. The frameworks I use most of the time are ReactJs, NextJs, GraphQL, and VueJs.
 
 <!--
 **MichaelGee/MichaelGee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
